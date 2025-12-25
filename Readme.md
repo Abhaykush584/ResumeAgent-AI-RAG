@@ -1,6 +1,6 @@
-# Resume2Job
+# ResumeAgent AI
 
-Resume2Job is a **learning-focused full-stack project** that analyzes how well a resume matches a given job description.
+ResumeAgent AI is a **learning-focused full-stack project** that analyzes how well a resume matches a given job description.
 
 It helps users clearly understand their **strengths, gaps, and improvement areas** using structured AI-generated feedback without vague or essay-style responses.
 
@@ -24,30 +24,6 @@ It is **not a commercial product**, but a solid **engineering + portfolio projec
 - Free-tier friendly (no paid APIs required)
 
 ---
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src=".github/screenshots/home.png" width="700" alt="Home Screen" />
-</p>
-
-<p align="center">
-  <img src=".github/screenshots/jd_input.png" width="700" alt="Job Description Input" />
-</p>
-
-<p align="center">
-  <img src=".github/screenshots/chat_screen.png" width="700" alt="Chat Screen" />
-</p>
-
-<p align="center">
-  <img src=".github/screenshots/chats.png" width="700" alt="Chats List" />
-</p>
-
-### 📱 Mobile View
-
-<p align="center">
-  <img src=".github/screenshots/mobile_screen.jpeg" width="320" alt="Mobile Screen" />
-</p>
 
 
 ## 🧠 How the System Works
@@ -86,8 +62,7 @@ It is **not a commercial product**, but a solid **engineering + portfolio projec
 ## 📁 Project Structure
 
 ```text
-resume2job/
-│
+
 ├── backend/
 │   ├── app.py                # Flask API entry point
 │   ├── extraction/           # Resume text extraction logic
@@ -136,10 +111,5 @@ When the User Asks for Details
 - Not optimized for high concurrent users
 - These trade-offs were made intentionally to keep the system simple, reliable, and        free-tier friendly.
 
-#### 👤 Author
-Danish Shaikh
-BCA Student | Python & Data-Oriented Developer
 
-### 📄 License
-This project is intended for educational and personal learning purposes.
 
